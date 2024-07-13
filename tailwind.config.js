@@ -14,8 +14,12 @@ export default {
         customYellow: '#faa645',
         customWhite: '#f1f2f7',
         customGray: '#bfc5d8',
+        customLightGray: '#e4e7f5',
 
         // Add more custom colors as needed
+    },
+    fontFamily: {
+      poppins: ['Poppins', 'sans-serif'],
     },
   },
   plugins: [],
